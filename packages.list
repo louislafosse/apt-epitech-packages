@@ -1,37 +1,64 @@
-make
+ca-certificates
 clang
-tree
-ascii
 cmake
+libcunit1 libcunit1-doc libcunit1-dev
 curl
-build-essential
+flac
+gcc
+g++
 gdb
 git
+libc-source
+libgmp3-dev
+ksh
+linux-generic
+libarmadillo-dev libhdf4-alt-dev libhdf5-dev libjpeg-dev libjpeg-turbo8-dev libjpeg8-dev libmlpack-dev libnetcdf-dev libtiff5-dev
+libsdl2-2.0
+libx11-dev
+ltrace
+make
 nasm
-tar
-zip
-unzip
-python3-pip
+libncurses-dev
+libncurses5 libncurses5:i386
+net-tools
+libglu1-mesa-dev freeglut3-dev mesa-common-dev
+libopenal-dev
+libalut0 libalut-dev
+python3-numpy
+python3
+rlwrap
 ruby
 strace
+tar
 tcsh
 tmux
+sudo
+tree
+unzip
 valgrind
-ftp
-docker
-docker-compose
+vim
+emacs-nox
+zip
+zsh
+qtcreator qtbase5-dev qt5-qmake
+openjdk-17-jdk
 autoconf
 automake
 tcpdump
 wireshark
 nodejs
-golang
-lolcat
-zsh
+emacs
+tuareg-mode
+libvirt-daemon-system
 haskell-platform
-php
+golang
+php php-bcmath php-cli php-gd php-mbstring php-mysqlnd php-pdo php-pear php-xml php-phar-io-version
+libsfml-dev
+libcsfml-dev
+libirrlicht1.8 libirrlicht-dev libirrlicht-doc
 rustc
 cargo
 mariadb-server
 x264
-nmap
+python3-pip
+qemu-kvm
