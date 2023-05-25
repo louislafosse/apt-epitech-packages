@@ -1,13 +1,12 @@
-make
-tree
-ascii
 build-essential
+tree
+cowsay
 tar
 zip
 unzip
 python3-pip
 ftp
-docker
+docker.io
 docker-compose
 lolcat
 zsh
@@ -25,18 +24,18 @@ gcc
 g++
 gdb
 git
-libc-source
-libgmp3-dev
+linux-source
+libgmp-dev
 ksh
-linux-generic
-libarmadillo-dev libhdf4-alt-dev libhdf5-dev libjpeg-dev libjpeg-turbo8-dev libjpeg8-dev libmlpack-dev libnetcdf-dev libtiff5-dev
+linux-image-generic
+libarmadillo-dev libhdf4-alt-dev libhdf5-dev libjpeg-dev libjpeg8-dev libmlpack-dev libnetcdf-dev libtiff5-dev
 libsdl2-2.0
 libx11-dev
 ltrace
 make
 nasm
 libncurses-dev
-libncurses5 libncurses5:i386
+libncurses5 lib32ncurses5
 net-tools
 libglu1-mesa-dev freeglut3-dev mesa-common-dev
 libopenal-dev
@@ -57,7 +56,7 @@ vim
 emacs-nox
 zip
 zsh
-qtcreator qtbase5-dev qt5-qmake
+qtcreator libqt5core5a libqt5gui5 libqt5widgets5 libqt5svg5-dev qt5-qmake
 openjdk-17-jdk
 autoconf
 automake
@@ -69,13 +68,14 @@ tuareg-mode
 libvirt-daemon-system
 haskell-platform
 golang
-php php-bcmath php-cli php-gd php-mbstring php-mysqlnd php-pdo php-pear php-xml php-phar-io-version
+php php-bcmath php-cli php-gd php-mbstring php-mysql php-pdo php-pear php-xml php-phar-io-version
 libsfml-dev
 libcsfml-dev
 libirrlicht1.8 libirrlicht-dev libirrlicht-doc
 rustc
 cargo
 mariadb-server
-x264
+libx264-dev
 python3-pip
 qemu-kvm
+binutils
